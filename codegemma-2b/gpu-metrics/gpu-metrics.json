@@ -1,0 +1,1335 @@
+{
+    "Total Processing Time": "943.27 seconds",
+    "Average Latency per Request": "4.04 seconds",
+    "Average Time to First Token": "0.15 seconds",
+    "Throughput": "76.22 tokens per second",
+    "Average GPU Utilization": "87.79%",
+    "Average Memory Utilization": "12.34%",
+    "Total Memory": "24564 MiB",
+    "Average Memory Used": "2900.023564064801 MiB",
+    "Ollama Metrics": [
+        {
+            "total_duration": 1466170137,
+            "load_duration": 1210657128,
+            "prompt_eval_count": 132,
+            "prompt_eval_duration": 9457000,
+            "eval_count": 74,
+            "eval_duration": 245429000,
+            "task_id": "HumanEval/0"
+        },
+        {
+            "total_duration": 1307611410,
+            "load_duration": 23751572,
+            "prompt_eval_count": 122,
+            "prompt_eval_duration": 11733000,
+            "eval_count": 366,
+            "eval_duration": 1229645000,
+            "task_id": "HumanEval/1"
+        },
+        {
+            "total_duration": 2195007783,
+            "load_duration": 35973761,
+            "prompt_eval_count": 87,
+            "prompt_eval_duration": 10375000,
+            "eval_count": 618,
+            "eval_duration": 2104785000,
+            "task_id": "HumanEval/2"
+        },
+        {
+            "total_duration": 343415514,
+            "load_duration": 65486066,
+            "prompt_eval_count": 124,
+            "prompt_eval_duration": 12123000,
+            "eval_count": 64,
+            "eval_duration": 221189000,
+            "task_id": "HumanEval/3"
+        },
+        {
+            "total_duration": 449025169,
+            "load_duration": 59437369,
+            "prompt_eval_count": 120,
+            "prompt_eval_duration": 11983000,
+            "eval_count": 96,
+            "eval_duration": 332771000,
+            "task_id": "HumanEval/4"
+        },
+        {
+            "total_duration": 3019866496,
+            "load_duration": 17935338,
+            "prompt_eval_count": 97,
+            "prompt_eval_duration": 10604000,
+            "eval_count": 854,
+            "eval_duration": 2948605000,
+            "task_id": "HumanEval/5"
+        },
+        {
+            "total_duration": 427320065,
+            "load_duration": 28793298,
+            "prompt_eval_count": 120,
+            "prompt_eval_duration": 12067000,
+            "eval_count": 99,
+            "eval_duration": 343894000,
+            "task_id": "HumanEval/6"
+        },
+        {
+            "total_duration": 2320302802,
+            "load_duration": 26612614,
+            "prompt_eval_count": 99,
+            "prompt_eval_duration": 10538000,
+            "eval_count": 651,
+            "eval_duration": 2238775000,
+            "task_id": "HumanEval/7"
+        },
+        {
+            "total_duration": 261715321,
+            "load_duration": 24009492,
+            "prompt_eval_count": 121,
+            "prompt_eval_duration": 11864000,
+            "eval_count": 53,
+            "eval_duration": 182249000,
+            "task_id": "HumanEval/8"
+        },
+        {
+            "total_duration": 4726070784,
+            "load_duration": 25273511,
+            "prompt_eval_count": 105,
+            "prompt_eval_duration": 10614000,
+            "eval_count": 1332,
+            "eval_duration": 4647775000,
+            "task_id": "HumanEval/9"
+        },
+        {
+            "total_duration": 896842850,
+            "load_duration": 34149836,
+            "prompt_eval_count": 152,
+            "prompt_eval_duration": 13653000,
+            "eval_count": 221,
+            "eval_duration": 804317000,
+            "task_id": "HumanEval/10"
+        },
+        {
+            "total_duration": 1682157343,
+            "load_duration": 14744783,
+            "prompt_eval_count": 107,
+            "prompt_eval_duration": 11038000,
+            "eval_count": 465,
+            "eval_duration": 1610681000,
+            "task_id": "HumanEval/12"
+        },
+        {
+            "total_duration": 5396858584,
+            "load_duration": 18511340,
+            "prompt_eval_count": 75,
+            "prompt_eval_duration": 9402000,
+            "eval_count": 1541,
+            "eval_duration": 5326534000,
+            "task_id": "HumanEval/13"
+        },
+        {
+            "total_duration": 1868273698,
+            "load_duration": 59598667,
+            "prompt_eval_count": 60,
+            "prompt_eval_duration": 9259000,
+            "eval_count": 483,
+            "eval_duration": 1754440000,
+            "task_id": "HumanEval/14"
+        },
+        {
+            "total_duration": 7291897173,
+            "load_duration": 19214400,
+            "prompt_eval_count": 77,
+            "prompt_eval_duration": 9669000,
+            "eval_count": 2060,
+            "eval_duration": 7219002000,
+            "task_id": "HumanEval/15"
+        },
+        {
+            "total_duration": 1592233639,
+            "load_duration": 30676551,
+            "prompt_eval_count": 72,
+            "prompt_eval_duration": 8813000,
+            "eval_count": 442,
+            "eval_duration": 1506614000,
+            "task_id": "HumanEval/16"
+        },
+        {
+            "total_duration": 567196678,
+            "load_duration": 22936676,
+            "prompt_eval_count": 176,
+            "prompt_eval_duration": 13302000,
+            "eval_count": 144,
+            "eval_duration": 488909000,
+            "task_id": "HumanEval/17"
+        },
+        {
+            "total_duration": 216188190,
+            "load_duration": 24607871,
+            "prompt_eval_count": 97,
+            "prompt_eval_duration": 11046000,
+            "eval_count": 42,
+            "eval_duration": 138247000,
+            "task_id": "HumanEval/18"
+        },
+        {
+            "total_duration": 173878224,
+            "load_duration": 29668911,
+            "prompt_eval_count": 110,
+            "prompt_eval_duration": 10888000,
+            "eval_count": 27,
+            "eval_duration": 88806000,
+            "task_id": "HumanEval/19"
+        },
+        {
+            "total_duration": 2002345165,
+            "load_duration": 18773318,
+            "prompt_eval_count": 173,
+            "prompt_eval_duration": 12738000,
+            "eval_count": 570,
+            "eval_duration": 1928271000,
+            "task_id": "HumanEval/20"
+        },
+        {
+            "total_duration": 3569473821,
+            "load_duration": 42880352,
+            "prompt_eval_count": 132,
+            "prompt_eval_duration": 11424000,
+            "eval_count": 1029,
+            "eval_duration": 3469819000,
+            "task_id": "HumanEval/21"
+        },
+        {
+            "total_duration": 218504819,
+            "load_duration": 35443991,
+            "prompt_eval_count": 96,
+            "prompt_eval_duration": 10005000,
+            "eval_count": 38,
+            "eval_duration": 125850000,
+            "task_id": "HumanEval/22"
+        },
+        {
+            "total_duration": 4078525233,
+            "load_duration": 26851984,
+            "prompt_eval_count": 43,
+            "prompt_eval_duration": 8410000,
+            "eval_count": 1180,
+            "eval_duration": 4001688000,
+            "task_id": "HumanEval/23"
+        },
+        {
+            "total_duration": 3663267591,
+            "load_duration": 26377146,
+            "prompt_eval_count": 53,
+            "prompt_eval_duration": 8381000,
+            "eval_count": 1057,
+            "eval_duration": 3581465000,
+            "task_id": "HumanEval/24"
+        },
+        {
+            "total_duration": 2370466118,
+            "load_duration": 28661128,
+            "prompt_eval_count": 134,
+            "prompt_eval_duration": 9427000,
+            "eval_count": 659,
+            "eval_duration": 2287563000,
+            "task_id": "HumanEval/25"
+        },
+        {
+            "total_duration": 406582721,
+            "load_duration": 29010236,
+            "prompt_eval_count": 90,
+            "prompt_eval_duration": 10588000,
+            "eval_count": 93,
+            "eval_duration": 323825000,
+            "task_id": "HumanEval/26"
+        },
+        {
+            "total_duration": 4432633978,
+            "load_duration": 30371688,
+            "prompt_eval_count": 53,
+            "prompt_eval_duration": 8683000,
+            "eval_count": 1259,
+            "eval_duration": 4348922000,
+            "task_id": "HumanEval/27"
+        },
+        {
+            "total_duration": 365300154,
+            "load_duration": 25291201,
+            "prompt_eval_count": 61,
+            "prompt_eval_duration": 9038000,
+            "eval_count": 84,
+            "eval_duration": 287080000,
+            "task_id": "HumanEval/28"
+        },
+        {
+            "total_duration": 409226182,
+            "load_duration": 62847432,
+            "prompt_eval_count": 97,
+            "prompt_eval_duration": 10771000,
+            "eval_count": 84,
+            "eval_duration": 290761000,
+            "task_id": "HumanEval/29"
+        },
+        {
+            "total_duration": 7807884770,
+            "load_duration": 62898474,
+            "prompt_eval_count": 126,
+            "prompt_eval_duration": 9575000,
+            "eval_count": 2199,
+            "eval_duration": 7686559000,
+            "task_id": "HumanEval/30"
+        },
+        {
+            "total_duration": 93453817959,
+            "load_duration": 29138514,
+            "prompt_eval_count": 122,
+            "prompt_eval_duration": 12592000,
+            "eval_count": 26180,
+            "eval_duration": 93368673000,
+            "task_id": "HumanEval/31"
+        },
+        {
+            "total_duration": 2298795998,
+            "load_duration": 76032941,
+            "prompt_eval_count": 282,
+            "prompt_eval_duration": 20390000,
+            "eval_count": 581,
+            "eval_duration": 2157525000,
+            "task_id": "HumanEval/32"
+        },
+        {
+            "total_duration": 4785555493,
+            "load_duration": 31863575,
+            "prompt_eval_count": 158,
+            "prompt_eval_duration": 13889000,
+            "eval_count": 1257,
+            "eval_duration": 4695601000,
+            "task_id": "HumanEval/33"
+        },
+        {
+            "total_duration": 5322637451,
+            "load_duration": 33851614,
+            "prompt_eval_count": 79,
+            "prompt_eval_duration": 11396000,
+            "eval_count": 1403,
+            "eval_duration": 5231288000,
+            "task_id": "HumanEval/34"
+        },
+        {
+            "total_duration": 7305719051,
+            "load_duration": 57129665,
+            "prompt_eval_count": 91,
+            "prompt_eval_duration": 10484000,
+            "eval_count": 1920,
+            "eval_duration": 7193233000,
+            "task_id": "HumanEval/35"
+        },
+        {
+            "total_duration": 5803153394,
+            "load_duration": 20481614,
+            "prompt_eval_count": 85,
+            "prompt_eval_duration": 10945000,
+            "eval_count": 1530,
+            "eval_duration": 5727737000,
+            "task_id": "HumanEval/36"
+        },
+        {
+            "total_duration": 9028852914,
+            "load_duration": 26474477,
+            "prompt_eval_count": 131,
+            "prompt_eval_duration": 12933000,
+            "eval_count": 2389,
+            "eval_duration": 8946615000,
+            "task_id": "HumanEval/37"
+        },
+        {
+            "total_duration": 2531906399,
+            "load_duration": 24307389,
+            "prompt_eval_count": 174,
+            "prompt_eval_duration": 15286000,
+            "eval_count": 655,
+            "eval_duration": 2449853000,
+            "task_id": "HumanEval/38"
+        },
+        {
+            "total_duration": 5558312014,
+            "load_duration": 29551994,
+            "prompt_eval_count": 103,
+            "prompt_eval_duration": 11644000,
+            "eval_count": 1466,
+            "eval_duration": 5474718000,
+            "task_id": "HumanEval/39"
+        },
+        {
+            "total_duration": 8054496925,
+            "load_duration": 30339711,
+            "prompt_eval_count": 189,
+            "prompt_eval_duration": 15426000,
+            "eval_count": 2134,
+            "eval_duration": 7966962000,
+            "task_id": "HumanEval/40"
+        },
+        {
+            "total_duration": 3660789404,
+            "load_duration": 18838337,
+            "prompt_eval_count": 162,
+            "prompt_eval_duration": 14697000,
+            "eval_count": 955,
+            "eval_duration": 3585489000,
+            "task_id": "HumanEval/41"
+        },
+        {
+            "total_duration": 8419596299,
+            "load_duration": 30850132,
+            "prompt_eval_count": 122,
+            "prompt_eval_duration": 12259000,
+            "eval_count": 2229,
+            "eval_duration": 8331224000,
+            "task_id": "HumanEval/42"
+        },
+        {
+            "total_duration": 4643507470,
+            "load_duration": 38531824,
+            "prompt_eval_count": 186,
+            "prompt_eval_duration": 15722000,
+            "eval_count": 1213,
+            "eval_duration": 4546241000,
+            "task_id": "HumanEval/43"
+        },
+        {
+            "total_duration": 4814675367,
+            "load_duration": 14651155,
+            "prompt_eval_count": 49,
+            "prompt_eval_duration": 10105000,
+            "eval_count": 1266,
+            "eval_duration": 4742811000,
+            "task_id": "HumanEval/45"
+        },
+        {
+            "total_duration": 4568283117,
+            "load_duration": 19521548,
+            "prompt_eval_count": 182,
+            "prompt_eval_duration": 15138000,
+            "eval_count": 1203,
+            "eval_duration": 4489489000,
+            "task_id": "HumanEval/46"
+        },
+        {
+            "total_duration": 7194765690,
+            "load_duration": 29342538,
+            "prompt_eval_count": 82,
+            "prompt_eval_duration": 11528000,
+            "eval_count": 1892,
+            "eval_duration": 7111685000,
+            "task_id": "HumanEval/47"
+        },
+        {
+            "total_duration": 6227041796,
+            "load_duration": 19293479,
+            "prompt_eval_count": 75,
+            "prompt_eval_duration": 8135000,
+            "eval_count": 1644,
+            "eval_duration": 6154675000,
+            "task_id": "HumanEval/48"
+        },
+        {
+            "total_duration": 3840815290,
+            "load_duration": 26108406,
+            "prompt_eval_count": 118,
+            "prompt_eval_duration": 13493000,
+            "eval_count": 1004,
+            "eval_duration": 3757137000,
+            "task_id": "HumanEval/49"
+        },
+        {
+            "total_duration": 4515590155,
+            "load_duration": 33080990,
+            "prompt_eval_count": 103,
+            "prompt_eval_duration": 12010000,
+            "eval_count": 1182,
+            "eval_duration": 4422193000,
+            "task_id": "HumanEval/50"
+        },
+        {
+            "total_duration": 6387439188,
+            "load_duration": 61489100,
+            "prompt_eval_count": 136,
+            "prompt_eval_duration": 13212000,
+            "eval_count": 1676,
+            "eval_duration": 6267878000,
+            "task_id": "HumanEval/51"
+        },
+        {
+            "total_duration": 4619538354,
+            "load_duration": 20420631,
+            "prompt_eval_count": 90,
+            "prompt_eval_duration": 11020000,
+            "eval_count": 1218,
+            "eval_duration": 4545344000,
+            "task_id": "HumanEval/52"
+        },
+        {
+            "total_duration": 4509696779,
+            "load_duration": 24943236,
+            "prompt_eval_count": 54,
+            "prompt_eval_duration": 10409000,
+            "eval_count": 1181,
+            "eval_duration": 4429547000,
+            "task_id": "HumanEval/53"
+        },
+        {
+            "total_duration": 4552269819,
+            "load_duration": 31575882,
+            "prompt_eval_count": 150,
+            "prompt_eval_duration": 13515000,
+            "eval_count": 1193,
+            "eval_duration": 4461290000,
+            "task_id": "HumanEval/54"
+        },
+        {
+            "total_duration": 6013630181,
+            "load_duration": 25163530,
+            "prompt_eval_count": 57,
+            "prompt_eval_duration": 9249000,
+            "eval_count": 1583,
+            "eval_duration": 5935271000,
+            "task_id": "HumanEval/55"
+        },
+        {
+            "total_duration": 4238108622,
+            "load_duration": 26909943,
+            "prompt_eval_count": 102,
+            "prompt_eval_duration": 11921000,
+            "eval_count": 1111,
+            "eval_duration": 4156097000,
+            "task_id": "HumanEval/56"
+        },
+        {
+            "total_duration": 5164017678,
+            "load_duration": 30517571,
+            "prompt_eval_count": 90,
+            "prompt_eval_duration": 12313000,
+            "eval_count": 1358,
+            "eval_duration": 5077808000,
+            "task_id": "HumanEval/57"
+        },
+        {
+            "total_duration": 308213201593,
+            "load_duration": 30770782,
+            "prompt_eval_count": 128,
+            "prompt_eval_duration": 12378000,
+            "eval_count": 81920,
+            "eval_duration": 308125232000,
+            "task_id": "HumanEval/58"
+        },
+        {
+            "total_duration": 4710832602,
+            "load_duration": 28950739,
+            "prompt_eval_count": 76,
+            "prompt_eval_duration": 8342000,
+            "eval_count": 1239,
+            "eval_duration": 4623075000,
+            "task_id": "HumanEval/59"
+        },
+        {
+            "total_duration": 308296370257,
+            "load_duration": 30082603,
+            "prompt_eval_count": 119,
+            "prompt_eval_duration": 9530000,
+            "eval_count": 81920,
+            "eval_duration": 308210739000,
+            "task_id": "HumanEval/60"
+        },
+        {
+            "total_duration": 1237354820,
+            "load_duration": 43175192,
+            "prompt_eval_count": 99,
+            "prompt_eval_duration": 11509000,
+            "eval_count": 303,
+            "eval_duration": 1133212000,
+            "task_id": "HumanEval/61"
+        },
+        {
+            "total_duration": 7737712751,
+            "load_duration": 23061049,
+            "prompt_eval_count": 116,
+            "prompt_eval_duration": 12030000,
+            "eval_count": 2042,
+            "eval_duration": 7660136000,
+            "task_id": "HumanEval/62"
+        },
+        {
+            "total_duration": 10473810975,
+            "load_duration": 24171157,
+            "prompt_eval_count": 158,
+            "prompt_eval_duration": 10315000,
+            "eval_count": 2776,
+            "eval_duration": 10395329000,
+            "task_id": "HumanEval/63"
+        },
+        {
+            "total_duration": 1385185527,
+            "load_duration": 30843746,
+            "prompt_eval_count": 134,
+            "prompt_eval_duration": 13593000,
+            "eval_count": 341,
+            "eval_duration": 1296118000,
+            "task_id": "HumanEval/64"
+        },
+        {
+            "total_duration": 4795921608,
+            "load_duration": 20243509,
+            "prompt_eval_count": 121,
+            "prompt_eval_duration": 13685000,
+            "eval_count": 1259,
+            "eval_duration": 4717976000,
+            "task_id": "HumanEval/66"
+        },
+        {
+            "total_duration": 2752349411,
+            "load_duration": 21521536,
+            "prompt_eval_count": 239,
+            "prompt_eval_duration": 25176000,
+            "eval_count": 710,
+            "eval_duration": 2664780000,
+            "task_id": "HumanEval/67"
+        },
+        {
+            "total_duration": 10957839542,
+            "load_duration": 14300601,
+            "prompt_eval_count": 172,
+            "prompt_eval_duration": 11149000,
+            "eval_count": 2904,
+            "eval_duration": 10884258000,
+            "task_id": "HumanEval/69"
+        },
+        {
+            "total_duration": 3640815379,
+            "load_duration": 18255698,
+            "prompt_eval_count": 139,
+            "prompt_eval_duration": 13473000,
+            "eval_count": 953,
+            "eval_duration": 3565714000,
+            "task_id": "HumanEval/70"
+        },
+        {
+            "total_duration": 5022926227,
+            "load_duration": 60580633,
+            "prompt_eval_count": 131,
+            "prompt_eval_duration": 13177000,
+            "eval_count": 1314,
+            "eval_duration": 4904399000,
+            "task_id": "HumanEval/71"
+        },
+        {
+            "total_duration": 3194413454,
+            "load_duration": 17923363,
+            "prompt_eval_count": 162,
+            "prompt_eval_duration": 15026000,
+            "eval_count": 833,
+            "eval_duration": 3117098000,
+            "task_id": "HumanEval/73"
+        },
+        {
+            "total_duration": 6609948290,
+            "load_duration": 36916248,
+            "prompt_eval_count": 208,
+            "prompt_eval_duration": 16813000,
+            "eval_count": 1739,
+            "eval_duration": 6511676000,
+            "task_id": "HumanEval/74"
+        },
+        {
+            "total_duration": 6383244627,
+            "load_duration": 25073099,
+            "prompt_eval_count": 89,
+            "prompt_eval_duration": 8571000,
+            "eval_count": 1690,
+            "eval_duration": 6303879000,
+            "task_id": "HumanEval/75"
+        },
+        {
+            "total_duration": 4058546157,
+            "load_duration": 25699742,
+            "prompt_eval_count": 159,
+            "prompt_eval_duration": 13713000,
+            "eval_count": 1062,
+            "eval_duration": 3974995000,
+            "task_id": "HumanEval/76"
+        },
+        {
+            "total_duration": 1930018355,
+            "load_duration": 21453905,
+            "prompt_eval_count": 336,
+            "prompt_eval_duration": 22499000,
+            "eval_count": 489,
+            "eval_duration": 1842090000,
+            "task_id": "HumanEval/78"
+        },
+        {
+            "total_duration": 6030487622,
+            "load_duration": 13162620,
+            "prompt_eval_count": 127,
+            "prompt_eval_duration": 13900000,
+            "eval_count": 1589,
+            "eval_duration": 5960810000,
+            "task_id": "HumanEval/80"
+        },
+        {
+            "total_duration": 3479036554,
+            "load_duration": 20504658,
+            "prompt_eval_count": 288,
+            "prompt_eval_duration": 20526000,
+            "eval_count": 907,
+            "eval_duration": 3393548000,
+            "task_id": "HumanEval/81"
+        },
+        {
+            "total_duration": 3741752434,
+            "load_duration": 24570388,
+            "prompt_eval_count": 86,
+            "prompt_eval_duration": 11099000,
+            "eval_count": 982,
+            "eval_duration": 3663831000,
+            "task_id": "HumanEval/82"
+        },
+        {
+            "total_duration": 3045582393,
+            "load_duration": 14649907,
+            "prompt_eval_count": 58,
+            "prompt_eval_duration": 7661000,
+            "eval_count": 799,
+            "eval_duration": 2980329000,
+            "task_id": "HumanEval/85"
+        },
+        {
+            "total_duration": 4053930538,
+            "load_duration": 21886481,
+            "prompt_eval_count": 220,
+            "prompt_eval_duration": 13076000,
+            "eval_count": 1049,
+            "eval_duration": 3970715000,
+            "task_id": "HumanEval/88"
+        },
+        {
+            "total_duration": 5705839719,
+            "load_duration": 28853514,
+            "prompt_eval_count": 117,
+            "prompt_eval_duration": 13021000,
+            "eval_count": 1502,
+            "eval_duration": 5617500000,
+            "task_id": "HumanEval/89"
+        },
+        {
+            "total_duration": 5144886313,
+            "load_duration": 26272260,
+            "prompt_eval_count": 128,
+            "prompt_eval_duration": 12937000,
+            "eval_count": 1357,
+            "eval_duration": 5062713000,
+            "task_id": "HumanEval/90"
+        },
+        {
+            "total_duration": 95875029,
+            "load_duration": 30234776,
+            "prompt_eval_count": 113,
+            "prompt_eval_duration": 13533000,
+            "eval_count": 3,
+            "eval_duration": 9305000,
+            "task_id": "HumanEval/91"
+        },
+        {
+            "total_duration": 307770446824,
+            "load_duration": 39071979,
+            "prompt_eval_count": 151,
+            "prompt_eval_duration": 14750000,
+            "eval_count": 81920,
+            "eval_duration": 307674749000,
+            "task_id": "HumanEval/92"
+        },
+        {
+            "total_duration": 307746636805,
+            "load_duration": 21465043,
+            "prompt_eval_count": 329,
+            "prompt_eval_duration": 22274000,
+            "eval_count": 81920,
+            "eval_duration": 307658219000,
+            "task_id": "HumanEval/94"
+        },
+        {
+            "total_duration": 2480025176,
+            "load_duration": 25129369,
+            "prompt_eval_count": 195,
+            "prompt_eval_duration": 12773000,
+            "eval_count": 639,
+            "eval_duration": 2394362000,
+            "task_id": "HumanEval/95"
+        },
+        {
+            "total_duration": 7015378237,
+            "load_duration": 33263426,
+            "prompt_eval_count": 178,
+            "prompt_eval_duration": 15539000,
+            "eval_count": 1846,
+            "eval_duration": 6921077000,
+            "task_id": "HumanEval/96"
+        },
+        {
+            "total_duration": 307622298918,
+            "load_duration": 63768404,
+            "prompt_eval_count": 121,
+            "prompt_eval_duration": 12749000,
+            "eval_count": 81920,
+            "eval_duration": 307500889000,
+            "task_id": "HumanEval/97"
+        },
+        {
+            "total_duration": 7059051626,
+            "load_duration": 22052707,
+            "prompt_eval_count": 79,
+            "prompt_eval_duration": 10987000,
+            "eval_count": 1865,
+            "eval_duration": 6976827000,
+            "task_id": "HumanEval/98"
+        },
+        {
+            "total_duration": 1909319374,
+            "load_duration": 25032368,
+            "prompt_eval_count": 170,
+            "prompt_eval_duration": 15278000,
+            "eval_count": 488,
+            "eval_duration": 1824914000,
+            "task_id": "HumanEval/99"
+        },
+        {
+            "total_duration": 6908737030,
+            "load_duration": 20332633,
+            "prompt_eval_count": 144,
+            "prompt_eval_duration": 14723000,
+            "eval_count": 1818,
+            "eval_duration": 6829855000,
+            "task_id": "HumanEval/100"
+        },
+        {
+            "total_duration": 4850432769,
+            "load_duration": 18981915,
+            "prompt_eval_count": 125,
+            "prompt_eval_duration": 12938000,
+            "eval_count": 1282,
+            "eval_duration": 4775724000,
+            "task_id": "HumanEval/101"
+        },
+        {
+            "total_duration": 5572697868,
+            "load_duration": 23702022,
+            "prompt_eval_count": 106,
+            "prompt_eval_duration": 12178000,
+            "eval_count": 1470,
+            "eval_duration": 5492884000,
+            "task_id": "HumanEval/102"
+        },
+        {
+            "total_duration": 8418033963,
+            "load_duration": 20418743,
+            "prompt_eval_count": 162,
+            "prompt_eval_duration": 15359000,
+            "eval_count": 2225,
+            "eval_duration": 8338722000,
+            "task_id": "HumanEval/103"
+        },
+        {
+            "total_duration": 4445262200,
+            "load_duration": 36905628,
+            "prompt_eval_count": 128,
+            "prompt_eval_duration": 12370000,
+            "eval_count": 1165,
+            "eval_duration": 4353167000,
+            "task_id": "HumanEval/104"
+        },
+        {
+            "total_duration": 307615667674,
+            "load_duration": 42346450,
+            "prompt_eval_count": 298,
+            "prompt_eval_duration": 21798000,
+            "eval_count": 81920,
+            "eval_duration": 307507136000,
+            "task_id": "HumanEval/105"
+        },
+        {
+            "total_duration": 4612263342,
+            "load_duration": 28190185,
+            "prompt_eval_count": 132,
+            "prompt_eval_duration": 9983000,
+            "eval_count": 1209,
+            "eval_duration": 4524087000,
+            "task_id": "HumanEval/106"
+        },
+        {
+            "total_duration": 2991782878,
+            "load_duration": 25223085,
+            "prompt_eval_count": 223,
+            "prompt_eval_duration": 17279000,
+            "eval_count": 775,
+            "eval_duration": 2905609000,
+            "task_id": "HumanEval/107"
+        },
+        {
+            "total_duration": 307570793638,
+            "load_duration": 17309851,
+            "prompt_eval_count": 320,
+            "prompt_eval_duration": 20110000,
+            "eval_count": 81920,
+            "eval_duration": 307485726000,
+            "task_id": "HumanEval/109"
+        },
+        {
+            "total_duration": 6148446734,
+            "load_duration": 25276938,
+            "prompt_eval_count": 207,
+            "prompt_eval_duration": 13951000,
+            "eval_count": 1619,
+            "eval_duration": 6058429000,
+            "task_id": "HumanEval/110"
+        },
+        {
+            "total_duration": 2710979861,
+            "load_duration": 30626358,
+            "prompt_eval_count": 159,
+            "prompt_eval_duration": 14134000,
+            "eval_count": 701,
+            "eval_duration": 2621803000,
+            "task_id": "HumanEval/111"
+        },
+        {
+            "total_duration": 8303606959,
+            "load_duration": 25115457,
+            "prompt_eval_count": 170,
+            "prompt_eval_duration": 15357000,
+            "eval_count": 2195,
+            "eval_duration": 8221035000,
+            "task_id": "HumanEval/112"
+        },
+        {
+            "total_duration": 3366429309,
+            "load_duration": 31430860,
+            "prompt_eval_count": 193,
+            "prompt_eval_duration": 15648000,
+            "eval_count": 875,
+            "eval_duration": 3271903000,
+            "task_id": "HumanEval/113"
+        },
+        {
+            "total_duration": 6622899832,
+            "load_duration": 25975437,
+            "prompt_eval_count": 92,
+            "prompt_eval_duration": 11105000,
+            "eval_count": 1747,
+            "eval_duration": 6541581000,
+            "task_id": "HumanEval/114"
+        },
+        {
+            "total_duration": 3343764992,
+            "load_duration": 31320629,
+            "prompt_eval_count": 351,
+            "prompt_eval_duration": 22967000,
+            "eval_count": 870,
+            "eval_duration": 3243606000,
+            "task_id": "HumanEval/115"
+        },
+        {
+            "total_duration": 7635352072,
+            "load_duration": 17454055,
+            "prompt_eval_count": 182,
+            "prompt_eval_duration": 16187000,
+            "eval_count": 2013,
+            "eval_duration": 7557439000,
+            "task_id": "HumanEval/116"
+        },
+        {
+            "total_duration": 2617357076,
+            "load_duration": 30694817,
+            "prompt_eval_count": 194,
+            "prompt_eval_duration": 16634000,
+            "eval_count": 675,
+            "eval_duration": 2526349000,
+            "task_id": "HumanEval/117"
+        },
+        {
+            "total_duration": 3331645621,
+            "load_duration": 22059022,
+            "prompt_eval_count": 158,
+            "prompt_eval_duration": 14412000,
+            "eval_count": 871,
+            "eval_duration": 3252426000,
+            "task_id": "HumanEval/118"
+        },
+        {
+            "total_duration": 6550171222,
+            "load_duration": 16803273,
+            "prompt_eval_count": 180,
+            "prompt_eval_duration": 15642000,
+            "eval_count": 1734,
+            "eval_duration": 6474527000,
+            "task_id": "HumanEval/119"
+        },
+        {
+            "total_duration": 535644656,
+            "load_duration": 30824029,
+            "prompt_eval_count": 234,
+            "prompt_eval_duration": 18089000,
+            "eval_count": 118,
+            "eval_duration": 441705000,
+            "task_id": "HumanEval/120"
+        },
+        {
+            "total_duration": 307565804851,
+            "load_duration": 20025830,
+            "prompt_eval_count": 144,
+            "prompt_eval_duration": 13426000,
+            "eval_count": 81920,
+            "eval_duration": 307489202000,
+            "task_id": "HumanEval/122"
+        },
+        {
+            "total_duration": 1216529881,
+            "load_duration": 23314335,
+            "prompt_eval_count": 241,
+            "prompt_eval_duration": 18170000,
+            "eval_count": 300,
+            "eval_duration": 1126800000,
+            "task_id": "HumanEval/123"
+        },
+        {
+            "total_duration": 4582593076,
+            "load_duration": 28662468,
+            "prompt_eval_count": 299,
+            "prompt_eval_duration": 21995000,
+            "eval_count": 1189,
+            "eval_duration": 4488763000,
+            "task_id": "HumanEval/124"
+        },
+        {
+            "total_duration": 3516605072,
+            "load_duration": 39010507,
+            "prompt_eval_count": 150,
+            "prompt_eval_duration": 13896000,
+            "eval_count": 914,
+            "eval_duration": 3420011000,
+            "task_id": "HumanEval/125"
+        },
+        {
+            "total_duration": 1458941585,
+            "load_duration": 15232638,
+            "prompt_eval_count": 271,
+            "prompt_eval_duration": 15627000,
+            "eval_count": 370,
+            "eval_duration": 1382145000,
+            "task_id": "HumanEval/127"
+        },
+        {
+            "total_duration": 2829142255,
+            "load_duration": 25250372,
+            "prompt_eval_count": 124,
+            "prompt_eval_duration": 12976000,
+            "eval_count": 732,
+            "eval_duration": 2746737000,
+            "task_id": "HumanEval/128"
+        },
+        {
+            "total_duration": 4480879508,
+            "load_duration": 62746041,
+            "prompt_eval_count": 422,
+            "prompt_eval_duration": 26160000,
+            "eval_count": 1158,
+            "eval_duration": 4346776000,
+            "task_id": "HumanEval/129"
+        },
+        {
+            "total_duration": 6533543783,
+            "load_duration": 27021016,
+            "prompt_eval_count": 256,
+            "prompt_eval_duration": 18602000,
+            "eval_count": 1727,
+            "eval_duration": 6445429000,
+            "task_id": "HumanEval/130"
+        },
+        {
+            "total_duration": 5899911137,
+            "load_duration": 19007301,
+            "prompt_eval_count": 77,
+            "prompt_eval_duration": 7991000,
+            "eval_count": 1560,
+            "eval_duration": 5824782000,
+            "task_id": "HumanEval/131"
+        },
+        {
+            "total_duration": 8353371248,
+            "load_duration": 21939138,
+            "prompt_eval_count": 166,
+            "prompt_eval_duration": 12417000,
+            "eval_count": 2205,
+            "eval_duration": 8276370000,
+            "task_id": "HumanEval/133"
+        },
+        {
+            "total_duration": 3256888149,
+            "load_duration": 25188877,
+            "prompt_eval_count": 172,
+            "prompt_eval_duration": 16019000,
+            "eval_count": 847,
+            "eval_duration": 3170835000,
+            "task_id": "HumanEval/134"
+        },
+        {
+            "total_duration": 262791622,
+            "load_duration": 40352298,
+            "prompt_eval_count": 105,
+            "prompt_eval_duration": 12178000,
+            "eval_count": 45,
+            "eval_duration": 167702000,
+            "task_id": "HumanEval/135"
+        },
+        {
+            "total_duration": 6756680895,
+            "load_duration": 30063293,
+            "prompt_eval_count": 144,
+            "prompt_eval_duration": 13593000,
+            "eval_count": 1781,
+            "eval_duration": 6669150000,
+            "task_id": "HumanEval/136"
+        },
+        {
+            "total_duration": 4487744723,
+            "load_duration": 39343212,
+            "prompt_eval_count": 152,
+            "prompt_eval_duration": 13954000,
+            "eval_count": 1172,
+            "eval_duration": 4388008000,
+            "task_id": "HumanEval/137"
+        },
+        {
+            "total_duration": 5999198426,
+            "load_duration": 28266723,
+            "prompt_eval_count": 93,
+            "prompt_eval_duration": 12255000,
+            "eval_count": 1581,
+            "eval_duration": 5916911000,
+            "task_id": "HumanEval/138"
+        },
+        {
+            "total_duration": 3640755135,
+            "load_duration": 26239067,
+            "prompt_eval_count": 101,
+            "prompt_eval_duration": 10115000,
+            "eval_count": 954,
+            "eval_duration": 3562742000,
+            "task_id": "HumanEval/139"
+        },
+        {
+            "total_duration": 2652269491,
+            "load_duration": 43835447,
+            "prompt_eval_count": 120,
+            "prompt_eval_duration": 12751000,
+            "eval_count": 676,
+            "eval_duration": 2553034000,
+            "task_id": "HumanEval/140"
+        },
+        {
+            "total_duration": 2182919971,
+            "load_duration": 44320763,
+            "prompt_eval_count": 233,
+            "prompt_eval_duration": 13877000,
+            "eval_count": 551,
+            "eval_duration": 2083110000,
+            "task_id": "HumanEval/141"
+        },
+        {
+            "total_duration": 3431432801,
+            "load_duration": 26721755,
+            "prompt_eval_count": 177,
+            "prompt_eval_duration": 15442000,
+            "eval_count": 893,
+            "eval_duration": 3347542000,
+            "task_id": "HumanEval/142"
+        },
+        {
+            "total_duration": 3559819851,
+            "load_duration": 31843090,
+            "prompt_eval_count": 165,
+            "prompt_eval_duration": 15469000,
+            "eval_count": 928,
+            "eval_duration": 3468785000,
+            "task_id": "HumanEval/143"
+        },
+        {
+            "total_duration": 1273281208,
+            "load_duration": 60938196,
+            "prompt_eval_count": 159,
+            "prompt_eval_duration": 14510000,
+            "eval_count": 303,
+            "eval_duration": 1152785000,
+            "task_id": "HumanEval/144"
+        },
+        {
+            "total_duration": 5153690855,
+            "load_duration": 61810957,
+            "prompt_eval_count": 133,
+            "prompt_eval_duration": 13371000,
+            "eval_count": 1349,
+            "eval_duration": 5033302000,
+            "task_id": "HumanEval/145"
+        },
+        {
+            "total_duration": 3587811626,
+            "load_duration": 26430753,
+            "prompt_eval_count": 134,
+            "prompt_eval_duration": 10029000,
+            "eval_count": 935,
+            "eval_duration": 3507319000,
+            "task_id": "HumanEval/146"
+        },
+        {
+            "total_duration": 7980281109,
+            "load_duration": 28858718,
+            "prompt_eval_count": 186,
+            "prompt_eval_duration": 15494000,
+            "eval_count": 2110,
+            "eval_duration": 7890025000,
+            "task_id": "HumanEval/147"
+        },
+        {
+            "total_duration": 175967992233,
+            "load_duration": 21168272,
+            "prompt_eval_count": 210,
+            "prompt_eval_duration": 17466000,
+            "eval_count": 46793,
+            "eval_duration": 175883178000,
+            "task_id": "HumanEval/148"
+        },
+        {
+            "total_duration": 308196116027,
+            "load_duration": 19394770,
+            "prompt_eval_count": 203,
+            "prompt_eval_duration": 17369000,
+            "eval_count": 81920,
+            "eval_duration": 308112332000,
+            "task_id": "HumanEval/149"
+        },
+        {
+            "total_duration": 307823770305,
+            "load_duration": 31772153,
+            "prompt_eval_count": 101,
+            "prompt_eval_duration": 9494000,
+            "eval_count": 81920,
+            "eval_duration": 307729879000,
+            "task_id": "HumanEval/150"
+        },
+        {
+            "total_duration": 3120329520,
+            "load_duration": 26024828,
+            "prompt_eval_count": 155,
+            "prompt_eval_duration": 10758000,
+            "eval_count": 812,
+            "eval_duration": 3030640000,
+            "task_id": "HumanEval/151"
+        },
+        {
+            "total_duration": 5200610218,
+            "load_duration": 33402638,
+            "prompt_eval_count": 241,
+            "prompt_eval_duration": 18525000,
+            "eval_count": 1366,
+            "eval_duration": 5105878000,
+            "task_id": "HumanEval/152"
+        },
+        {
+            "total_duration": 2298977599,
+            "load_duration": 69101546,
+            "prompt_eval_count": 284,
+            "prompt_eval_duration": 20918000,
+            "eval_count": 574,
+            "eval_duration": 2163964000,
+            "task_id": "HumanEval/153"
+        },
+        {
+            "total_duration": 2554735695,
+            "load_duration": 60841436,
+            "prompt_eval_count": 134,
+            "prompt_eval_duration": 13325000,
+            "eval_count": 650,
+            "eval_duration": 2435750000,
+            "task_id": "HumanEval/154"
+        },
+        {
+            "total_duration": 5055709274,
+            "load_duration": 19357769,
+            "prompt_eval_count": 122,
+            "prompt_eval_duration": 13235000,
+            "eval_count": 1332,
+            "eval_duration": 4977144000,
+            "task_id": "HumanEval/156"
+        },
+        {
+            "total_duration": 2482157308,
+            "load_duration": 35685743,
+            "prompt_eval_count": 119,
+            "prompt_eval_duration": 12755000,
+            "eval_count": 636,
+            "eval_duration": 2389710000,
+            "task_id": "HumanEval/157"
+        },
+        {
+            "total_duration": 3850365333,
+            "load_duration": 21847621,
+            "prompt_eval_count": 128,
+            "prompt_eval_duration": 13298000,
+            "eval_count": 1011,
+            "eval_duration": 3773419000,
+            "task_id": "HumanEval/158"
+        },
+        {
+            "total_duration": 1877991707,
+            "load_duration": 28292335,
+            "prompt_eval_count": 313,
+            "prompt_eval_duration": 22620000,
+            "eval_count": 474,
+            "eval_duration": 1780715000,
+            "task_id": "HumanEval/159"
+        },
+        {
+            "total_duration": 2469492312,
+            "load_duration": 30130635,
+            "prompt_eval_count": 223,
+            "prompt_eval_duration": 18380000,
+            "eval_count": 634,
+            "eval_duration": 2379042000,
+            "task_id": "HumanEval/160"
+        },
+        {
+            "total_duration": 5769759326,
+            "load_duration": 34032682,
+            "prompt_eval_count": 120,
+            "prompt_eval_duration": 12754000,
+            "eval_count": 1518,
+            "eval_duration": 5679499000,
+            "task_id": "HumanEval/161"
+        },
+        {
+            "total_duration": 6231745970,
+            "load_duration": 59927319,
+            "prompt_eval_count": 94,
+            "prompt_eval_duration": 11066000,
+            "eval_count": 1636,
+            "eval_duration": 6115809000,
+            "task_id": "HumanEval/162"
+        },
+        {
+            "total_duration": 5744918737,
+            "load_duration": 31364355,
+            "prompt_eval_count": 112,
+            "prompt_eval_duration": 12113000,
+            "eval_count": 1515,
+            "eval_duration": 5659810000,
+            "task_id": "HumanEval/163"
+        }
+    ]
+}

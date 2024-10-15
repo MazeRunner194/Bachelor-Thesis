@@ -1,0 +1,10 @@
+{
+    "Total Processing Time": "290.54 seconds",
+    "Average Latency per Request": "1.77 seconds",
+    "Average Time to First Token": "0.15 seconds",
+    "Throughput": "75.03 tokens per second",
+    "Average GPU Utilization": "80.25%",
+    "Average Memory Utilization": "37.13%",
+    "Total Memory": "24564 MiB",
+    "Average Memory Used": "9119.069067765966 MiB"
+}
